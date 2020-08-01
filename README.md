@@ -1,2 +1,2 @@
 # Python Tutorials
-In this Chapter ,We learn the Basic programming codes with clear explanations
+In this Chapter ,We learn the Basic of python with syntax....
